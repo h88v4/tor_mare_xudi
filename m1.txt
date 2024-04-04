@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/176.0.0.26.42;FBPN/com.facebook.orca;FBLC/en_US;FBBV/871292023;FBCR/OPT;FBMF/samsung;FBBD/samsung;FBDV/Galaxy W;FBSV/12.4;FBCA/arm64-v8a:;FBDM/{density=3.0,width=1169,height=3062};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/328.1.0.28.119;FBBV/285616312;FBDM/{density=3.5,width=1125,height=736};FBLC/en_US;FBRV/270421244;FBCR/KPN;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo X27 Pro;FBSV/7.6.2;nullFBCA/armeabi-v7a:armeabi;]
