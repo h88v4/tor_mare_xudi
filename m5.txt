@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888191;FBDM/{density=3.0,width=1080,height=1872};FBLC/vi_VN;FBRV/248592601;FBCR/VINAPHONE;FBMF/KYOCERA;FBBD/KYOCERA;FBPN/com.facebook.katana;FBDV/S4-KC;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/382.0.0.33.111;FBBV/316416485;FBDM/{density=2.0,width=1125,height=1024};FBLC/en_US;FBCR/XL Axiata;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/P6 Energy Lite;FBSV/12.4.8;FBCA/armeabi-v7a:armeabi;]
