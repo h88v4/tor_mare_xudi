@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/382.0.0.33.111;FBBV/316416485;FBDM/{density=2.0,width=1125,height=1024};FBLC/en_US;FBCR/XL Axiata;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/P6 Energy Lite;FBSV/12.4.8;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/139.0.0.26.93;FBBV/70506848;FBDM/{density=3.0,width=1440,height=1440};FBLC/en_US;FBRV/352747220;FBCR/Koryolink;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 7A;FBSV/8.8.4;nullFBCA/armeabi-v7a:armeabi;]
