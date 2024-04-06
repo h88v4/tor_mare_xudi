@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/389.0.0.42.111;FBBV/317817218;FBDM/{density=4.0,width=1600,height=800};FBLC/en_US;FBCR/Koryolink;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/X003;FBSV/9.5.2;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/137.0.0.24.91;FBBV/68238609;FBDM/{density=3.5,width=750,height=800};FBLC/en_US;FBCR/STC;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1823;FBSV/9.3.7;FBCA/arm64-v8a:;]
