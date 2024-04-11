@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/182.0.0.44.77;FBBV/118379519;FBDM/{density=4.0,width=1536,height=1366};FBLC/en_US;FBRV/383499757;FBCR/Free Mobile;FBMF/Lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-M154;FBSV/10.3.6;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629347;FBDM/{density=2.5,width=2048,height=800};FBLC/en_US;FBCR/Omantel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e power;FBSV/11.7.9;FBCA/arm64-v8a:;]
