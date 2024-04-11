@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/171.0.0.49.92;FBBV/107282048;FBDM/{density=1.5,width=1125,height=812};FBLC/en_US;FBCR/Maxis;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D6633;FBSV/8.9.7;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/284016955;FBDM/{density=4.0,width=1080,height=800};FBLC/en_US;FBRV/350428956;FBCR/Deutsche Telekom;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto z force;FBSV/8.2.1;nullFBCA/arm64-v8a:;]
