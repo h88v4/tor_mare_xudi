@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/305.0.0.40.120;FBBV/272369098;FBDM/{density=2.0,width=750,height=1024};FBLC/in_ID;FBCR/VI India;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH1823;FBSV/12.4.6;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/339.0.0.32.118;FBBV/307816483;FBDM/{density=1.5,width=1536,height=1366};FBLC/in_ID;FBRV/366014802;FBCR/MTNL;FBMF/Lge;FBBD/lge;FBPN/com.facebook.orca;FBDV/LG-M700;FBSV/8.4.4;nullFBCA/arm64-v8a:;]
