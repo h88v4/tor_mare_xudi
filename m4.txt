@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/176.0.0.42.87;FBBV/113613973;FBDM/{density=3.5,width=720,height=1280};FBLC/en_US;FBRV/256788923;FB_FW/2;FBCR/Telekom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X5010;FBSV/9.4.8;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/358.0.0.34.117;FBBV/311617005;FBDM/{density=2.0,width=1080,height=812};FBLC/en_US;FBCR/MTS India;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Talk S;FBSV/13.2.3;FBCA/armeabi-v7a:armeabi;]
