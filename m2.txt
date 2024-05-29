@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/226.0.0.49.120;FBBV/159526651;FBDM/{density=2.5,width=1125,height=1366};FBLC/en_US;FBRV/325780670;FB_FW/2;FBCR/MagtiCom;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X606D;FBSV/7.9.9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=1.5,width=2048,height=1024};FBLC/en_US;FBCR/Mobilis;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/5102;FBSV/9.8.1;FBCA/arm64-v8a:;]
