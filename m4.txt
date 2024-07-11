@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/358.0.0.34.117;FBBV/311617005;FBDM/{density=2.0,width=1080,height=812};FBLC/en_US;FBCR/MTS India;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Talk S;FBSV/13.2.3;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/137.0.0.24.91;FBBV/68238703;FBDM/{density=4.0,width=1080,height=1440};FBLC/en_US;FBRV/238499330;FBCR/Magenta;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid Jade Primo;FBSV/12.8.2;nullFBCA/arm64-v8a:;]
