@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/196.0.0.41.95;FBBV/129523926;FBDM/{density=1.0,width=720,height=1024};FBLC/en_US;FBRV/305602480;FBCR/Maroc Telecom;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab 10 A3-A40;FBSV/9.1.5;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/176.0.0.42.87;FBBV/113613973;FBDM/{density=2.0,width=1440,height=800};FBLC/en_US;FBCR/Bakcell;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1945;FBSV/7.1.7;FBCA/arm64-v8a:;]
