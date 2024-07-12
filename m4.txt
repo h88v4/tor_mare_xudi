@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/137.0.0.24.91;FBBV/68238703;FBDM/{density=4.0,width=1080,height=1440};FBLC/en_US;FBRV/238499330;FBCR/Magenta;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid Jade Primo;FBSV/12.8.2;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/103.0.0.20.72;FBBV/43868207;FBDM/{density=3.5,width=800,height=812};FBLC/en_US;FBRV/362760908;FBCR/Comores Telecom;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX2025;FBSV/9.9.5;nullFBCA/arm64-v8a:;]
