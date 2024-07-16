@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895118;FBDM/{density=3.5,width=800,height=1280};FBLC/en_US;FBCR/Somtel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid E600;FBSV/9.9.1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/152.0.0.34.136;FBBV/82833102;FBDM/{density=4.0,width=1125,height=812};FBLC/en_US;FBRV/368001433;FBCR/Econet Leo;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/A2985;FBSV/9.5.8;nullFBCA/armeabi-v7a:armeabi;]
