@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/125.0.0.23.80;FBBV/58971521;FBDM/{density=2.5,width=1200,height=1366};FBLC/en_US;FBRV/372537328;FB_FW/2;FBCR/FSMTC;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 6 Pro;FBSV/13.5.8;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/128.0.0.25.68;FBBV/61316310;FBDM/{density=4.0,width=1080,height=1366};FBLC/en_US;FBCR/Progresif;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/Z008D;FBSV/10.1.7;FBCA/armeabi-v7a:armeabi;]
