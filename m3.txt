@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/165.0.0.53.93;FBBV/99791903;FBDM/{density=2.5,width=768,height=1366};FBLC/en_US;FBRV/296817519;FBCR/MCI;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KF6h;FBSV/11.5.3;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/367.2.0.26.107;FBBV/313413508;FBDM/{density=4.0,width=1440,height=1024};FBLC/en_US;FBRV/363908077;FBCR/Geocell;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g power (2023);FBSV/8.5.4;nullFBCA/arm64-v8a:;]
