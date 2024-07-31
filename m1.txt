@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/189.0.0.35.91;FBBV/123791219;FBDM/{density=2.5,width=750,height=800};FBLC/en_US;FBRV/299633767;FBCR/Golis Telecom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/EB2103;FBSV/10.9.5;nullFBCA/arm64-v8a:;]
+[[FBAN/Orca-Android;FBAV/264.0.0.44.111;FBBV/206636693;FBDM/{density=3.5,width=750,height=812};FBLC/en_US;FBCR/Telcel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/MediaPad M6;FBSV/10.4.7;FBCA/arm64-v8a:;]
