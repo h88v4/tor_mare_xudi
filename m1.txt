@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/332.0.0.23.111;FBBV/286414668;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBRV/328514536;FBCR/Hormuud;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X652C;FBSV/7.3.7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/216.0.0.38.104;FBBV/149356190;FBDM/{density=1.5,width=1440,height=1280};FBLC/en_US;FBRV/301511742;FBCR/MTNL;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3193;FBSV/12.3.2;nullFBCA/armeabi-v7a:armeabi;]
