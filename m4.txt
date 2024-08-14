@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/420.0.0.32.61;FBBV/443010639;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBRV/352871181;FB_FW/2;FBCR/Reliance Communications;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/Z01HDA;FBSV/8.3.8;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/293.0.0.43.120;FBBV/251953126;FBDM/{density=3.5,width=750,height=1280};FBLC/en_US;FBRV/393615123;FBCR/Djezzy;FBMF/Cubot;FBBD/Cubotc;FBPN/com.facebook.katana;FBDV/;FBSV/7.7.1;nullFBCA/arm64-v8a:;]
