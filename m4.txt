@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/293.0.0.43.120;FBBV/251953126;FBDM/{density=3.5,width=750,height=1280};FBLC/en_US;FBRV/393615123;FBCR/Djezzy;FBMF/Cubot;FBBD/Cubotc;FBPN/com.facebook.katana;FBDV/;FBSV/7.7.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/375.0.0.26.111;FBBV/315015017;FBDM/{density=4.0,width=2048,height=800};FBLC/en_US;FBRV/246453783;FB_FW/2;FBCR/Vodafone;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/Fire 7 (2017);FBSV/9.2.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
