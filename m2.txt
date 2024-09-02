@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/138.0.0.19.93;FBBV/69169467;FBDM/{density=4.0,width=800,height=1024};FBLC/en_US;FBRV/332506737;FBCR/Irancell;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505F;FBSV/10.1.7;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/290.0.0.44.121;FBBV/248231979;FBDM/{density=2.5,width=750,height=1024};FBLC/en_US;FBRV/393789301;FBCR/Our Telekom;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/8.2.7;nullFBCA/arm64-v8a:;]
