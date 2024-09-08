@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/221.0.0.48.102;FBBV/154683417;FBDM/{density=4.0,width=1440,height=1280};FBLC/en_US;FBCR/Bell;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KG5p;FBSV/10.7.6;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=2.0,width=768,height=1280};FBLC/en_US;FBRV/373817487;FBCR/Tele2;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi K30 Pro;FBSV/9.4.6;nullFBCA/arm64-v8a:;]
