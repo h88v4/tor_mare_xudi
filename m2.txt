@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/300.0.0.51.129;FBBV/262618495;FBDM/{density=2.5,width=768,height=1366};FBLC/en_US;FBCR/Telemor;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KG5p;FBSV/7.5.1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/392.0.0.32.108;FBBV/318413147;FBDM/{density=2.5,width=800,height=1280};FBLC/en_US;FBCR/Telstra;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X605;FBSV/12.4.1;FBCA/armeabi-v7a:armeabi;]
