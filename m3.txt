@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/285812519;FBDM/{density=1.5,width=1536,height=1366};FBLC/en_US;FBRV/383209253;FB_FW/2;FBCR/Vivacom;FBMF/Cubot;FBBD/Cubotc;FBPN/com.facebook.katana;FBDV/;FBSV/9.1.9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/234.0.0.30.115;FBBV/167211814;FBDM/{density=2.5,width=1536,height=1366};FBLC/en_US;FBRV/309904665;FB_FW/2;FBCR/Telstra;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/P Smart 2021;FBSV/7.4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
