@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/390.0.0.27.105;FBBV/318014885;FBDM/{density=1.0,width=750,height=812};FBLC/en_US;FBRV/365079332;FB_FW/2;FBCR/Smart Axiata;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab A3-A20FHD;FBSV/11.9.7;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/300.0.0.51.129;FBBV/262618495;FBDM/{density=2.5,width=1440,height=1280};FBLC/en_US;FBCR/Mobily;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/I001DA;FBSV/11.3.5;FBCA/arm64-v8a:;]
