@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/196.0.0.41.95;FBBV/129523926;FBDM/{density=3.0,width=800,height=736};FBLC/en_US;FBRV/375202108;FBCR/Telecel;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/Xperia Z2;FBSV/12.4.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/272.0.0.50.125;FBBV/216845461;FBDM/{density=3.0,width=1200,height=1440};FBLC/en_US;FBRV/248918051;FB_FW/2;FBCR/Telekom Slovenije;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1833;FBSV/8.4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
