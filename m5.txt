@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/300.0.0.51.129;FBBV/262618495;FBDM/{density=2.5,width=1440,height=1280};FBLC/en_US;FBCR/Mobily;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/I001DA;FBSV/11.3.5;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/135.0.0.22.90;FBBV/66730580;FBDM/{density=2.0,width=768,height=1024};FBLC/en_US;FBCR/Breeze;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2120;FBSV/13.2.8;FBCA/arm64-v8a:;]
