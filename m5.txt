@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/135.0.0.22.90;FBBV/66730580;FBDM/{density=2.0,width=768,height=1024};FBLC/en_US;FBCR/Breeze;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2120;FBSV/13.2.8;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/322.0.0.35.121;FBBV/284416989;FBDM/{density=3.0,width=750,height=1024};FBLC/en_US;FBCR/Telstra;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/T506D;FBSV/8.8.4;FBCA/arm64-v8a:;]
