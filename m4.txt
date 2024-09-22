@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/244.0.0.43.118;FBBV/179053252;FBDM/{density=1.0,width=768,height=1440};FBLC/en_US;FBCR/Digicel;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ZS600KL;FBSV/7.3.7;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/120.0.0.18.72;FBBV/55510008;FBDM/{density=1.0,width=1125,height=812};FBLC/en_US;FBRV/251118802;FBCR/KPN;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y22L;FBSV/7.7.1;nullFBCA/armeabi-v7a:armeabi;]
