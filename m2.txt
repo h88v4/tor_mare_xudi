@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/369.0.0.18.103;FBBV/313811870;FBDM/{density=1.5,width=1125,height=812};FBLC/en_US;FBRV/355794665;FB_FW/2;FBCR/Batelco;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g400;FBSV/11.4.5;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/201.0.0.58.99;FBBV/134535552;FBDM/{density=3.0,width=1440,height=1024};FBLC/en_US;FBRV/278978412;FB_FW/2;FBCR/Robi Axiata;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X682C;FBSV/8.7.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
