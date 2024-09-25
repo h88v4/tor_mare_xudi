@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/322.0.0.35.121;FBBV/284416989;FBDM/{density=3.0,width=750,height=1024};FBLC/en_US;FBCR/Telstra;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/T506D;FBSV/8.8.4;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/204.0.0.24.101;FBBV/138170440;FBDM/{density=3.0,width=1440,height=812};FBLC/en_US;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo V21;FBSV/11.9.5;FBCA/armeabi-v7a:armeabi;]
