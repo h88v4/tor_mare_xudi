@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/120.0.0.18.72;FBBV/55510008;FBDM/{density=1.0,width=1125,height=812};FBLC/en_US;FBRV/251118802;FBCR/KPN;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y22L;FBSV/7.7.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=4.0,width=1536,height=736};FBLC/en_US;FBRV/325968897;FBCR/Elisa;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g stylus (2022);FBSV/11.7.5;nullFBCA/armeabi-v7a:armeabi;]
