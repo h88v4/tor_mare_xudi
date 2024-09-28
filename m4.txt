@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=4.0,width=1536,height=736};FBLC/en_US;FBRV/325968897;FBCR/Elisa;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g stylus (2022);FBSV/11.7.5;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/218.0.0.46.109;FBBV/151380998;FBDM/{density=4.0,width=1125,height=1366};FBLC/en_US;FBCR/Safaricom;FBMF/Cubot;FBBD/Cubotc;FBPN/com.facebook.katana;FBDV/;FBSV/11.5.9;FBCA/armeabi-v7a:armeabi;]
