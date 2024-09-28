@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/285.0.0.43.120;FBBV/240747247;FBDM/{density=1.5,width=2048,height=800};FBLC/en_US;FBRV/278510897;FBCR/Djezzy;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/MediaPad M3;FBSV/8.3.5;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/141.0.0.20.91;FBBV/71152838;FBDM/{density=2.5,width=1080,height=1280};FBLC/en_US;FBRV/361276991;FBCR/Chinguitel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2120;FBSV/8.1.5;nullFBCA/arm64-v8a:;]
