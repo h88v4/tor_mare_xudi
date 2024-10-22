@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/98.0.0.18.70;FBBV/41212249;FBDM/{density=1.5,width=1125,height=736};FBLC/en_US;FBCR/Bitė;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 6a;FBSV/11.4.5;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/72.0.0.22.69;FBBV/27550270;FBDM/{density=3.0,width=1600,height=1366};FBLC/en_US;FBRV/397734993;FBCR/Progresif;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi 11 Lite;FBSV/7.1.5;nullFBCA/arm64-v8a:;]
