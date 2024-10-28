@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/72.0.0.22.69;FBBV/27550270;FBDM/{density=3.0,width=1600,height=1366};FBLC/en_US;FBRV/397734993;FBCR/Progresif;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi 11 Lite;FBSV/7.1.5;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=1200,height=1440};FBLC/en_US;FBRV/261634098;FB_FW/2;FBCR/MCI;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y31i;FBSV/11.8.5;FBOP/1;FBCA/arm64-v8a:;]
