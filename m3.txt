@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/192.0.0.34.85;FBBV/126133156;FBDM/{density=2.5,width=1440,height=1024};FBLC/en_US;FBRV/298200292;FBCR/Timor Telecom;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid Z630S;FBSV/7.2.9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=1.5,width=800,height=1280};FBLC/en_US;FBCR/Koryolink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A326B;FBSV/9.4.9;FBCA/armeabi-v7a:armeabi;]
