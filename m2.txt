@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/413.0.0.30.104;FBBV/441615153;FBDM/{density=1.5,width=1200,height=736};FBLC/en_US;FBRV/306636933;FBCR/Elisa;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KD6a;FBSV/9.3.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=4.0,width=720,height=1366};FBLC/en_US;FBCR/Elisa;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A427U;FBSV/9.4.8;FBCA/armeabi-v7a:armeabi;]
