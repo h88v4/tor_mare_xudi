@@ -1,1 +1,0 @@
-[FBAN/Orca-Android;FBAV/42.0.0.27.114;FBBV/14063944;FBDM/{density=3.5,width=1536,height=1366};FBLC/en_US;FBCR/Gabon Telecom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/LE2123;FBSV/7.8.8;FBCA/armeabi-v7a:armeabi;]
