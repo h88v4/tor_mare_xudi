@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=1.5,width=800,height=1280};FBLC/en_US;FBCR/Koryolink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A326B;FBSV/9.4.9;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745697;FBDM/{density=4.0,width=1440,height=1366};FBLC/en_US;FBRV/276070202;FBCR/Koryolink;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel Tablet;FBSV/10.8.3;nullFBCA/arm64-v8a:;]
