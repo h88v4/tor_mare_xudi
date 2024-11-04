@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/212.0.0.28.110;FBBV/145459230;FBDM/{density=1.5,width=1600,height=1366};FBLC/en_US;FBRV/294992047;FB_FW/2;FBCR/Tigo;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/Nova 5T;FBSV/13.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/72.0.0.22.69;FBBV/27550270;FBDM/{density=2.0,width=750,height=736};FBLC/en_US;FBCR/Smart Axiata;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid Z320;FBSV/8.5.3;FBCA/arm64-v8a:;]
