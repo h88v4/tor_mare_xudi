@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636693;FBDM/{density=1.5,width=800,height=800};FBLC/en_US;FBRV/316483614;FBCR/BlueSky;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX2040;FBSV/11.6.9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745697;FBDM/{density=4.0,width=1080,height=1280};FBLC/en_US;FBRV/350175480;FB_FW/2;FBCR/Telcel;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 7 Pro;FBSV/12.8.6;FBOP/1;FBCA/arm64-v8a:;]
